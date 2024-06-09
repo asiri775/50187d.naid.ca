@@ -178,7 +178,7 @@ return [
         Barryvdh\DomPDF\ServiceProvider::class,
         Barryvdh\Debugbar\ServiceProvider::class,
         Arcanedev\LogViewer\LogViewerServiceProvider::class,
-        Meneses\LaravelMpdf\LaravelMpdfServiceProvider::class
+        // Meneses\LaravelMpdf\LaravelMpdfServiceProvider::class
 
     ],
 
